@@ -1,0 +1,49 @@
+*{
+	margin: 0 auto;
+	font-family: 'Montserrat', sans-serif;
+}
+header{
+	width: 60%;
+}
+
+.navigation{
+	display: flex;
+}
+.nav-element{
+	transform: translateY(33%);
+}
+a{
+	text-decoration: none;
+}
+/* main */
+main{
+	width: 80%;
+}
+.alina-about{
+	display: flex;
+}
+.alina-about img{
+max-height: 500px;
+}
+.rofl{
+	color: blue;
+	transition: .2s;
+}
+.rofl:hover{
+	color: red;
+}
+
+.xuy{
+	margin: 15px;
+	text-align: center;
+}
+.pict{
+	display: flex;
+	text-align: center;
+}
+.pict img{
+	width: 500px;
+}
+.ddd img{
+width: 500px;
+}
